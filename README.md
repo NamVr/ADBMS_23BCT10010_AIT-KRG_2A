@@ -8,11 +8,11 @@ This repository contains practicals for Advanced Database Management Systems (AD
 -   **UID:** 23BCT10010
 -   **Batch:** 23-AIT-KRG-2
 
-| Experiment No. | Folder Reference                   |
-| :------------: | :--------------------------------- |
-|       1        | [Experiment 1](/Experiment%201)   |
-|       2        | [Experiment 2](/Experiment%202)   |
-|       3        | [Experiment 3](/Experiment 3)   |
+| Experiment No. | Folder Reference                |
+| :------------: | :------------------------------ |
+|       1        | [Experiment 1](/Experiment%201) |
+|       2        | [Experiment 2](/Experiment%202) |
+|       3        | [Experiment 3](/Experiment%203) |
 |       4        | [Experiment 4](/Experiment 4)   |
 |       5        | [Experiment 5](/Experiment 5)   |
 |       6        | [Experiment 6](/Experiment 6)   |
